@@ -1,0 +1,23 @@
+[
+  {
+    "role": "operator",
+    "_id": "5ed0edc691971e46080739f6",
+    "name": "admin",
+    "email": "admin@admin.com",
+    "password": "123456"
+  },
+  {
+    "role": "operator",
+    "_id": "5ed1135eca53f1498c6dc07d",
+    "name": "operator",
+    "email": "operator@operator.com",
+    "password": "123456"
+  },
+  {
+    "role": "user",
+    "_id": "5ed8976d68a4c525e82c5bd9",
+    "name": "user",
+    "email": "user@user.com",
+    "password": "123456"
+  }
+]
